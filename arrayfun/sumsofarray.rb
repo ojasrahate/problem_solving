@@ -1,6 +1,5 @@
 # {1,2,3,4,5,6,21}
-# {21,1,2,3,4,5,6}
-# {1,2,3,4,5,1,6,8}
+# Find the index where sum of all the elements to the left(including the index) is equal to the sum of elements to the right
 
 flag = 0
 x = [1,2,3,4,5,6,21]
