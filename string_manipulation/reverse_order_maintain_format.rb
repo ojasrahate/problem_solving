@@ -1,3 +1,5 @@
+#reverse the string but preserve the order of space. ex: "I am boy" -> "y ob mai"
+
 str = "I am boy"
 str=str.downcase
 z = str.split
